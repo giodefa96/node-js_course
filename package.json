@@ -1,0 +1,25 @@
+{
+  "name": "js_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giodefa96/node-js_course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giodefa96/node-js_course/issues"
+  },
+  "homepage": "https://github.com/giodefa96/node-js_course#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
